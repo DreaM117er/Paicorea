@@ -24,7 +24,7 @@ Paicorea是一把專門為我而設計的分離式機械鍵盤，目的是為了
 
 |名稱|規格|數量|備註|
 |--|--|--|--|
-|MCU|RP2040 Core-A|2|-|
+|MCU|RP2040 Core-A|2|[Aliexpress Link](https://es.aliexpress.com/item/1005006101790601.html?channel=twinner)|
 |Type-C母座|TYPE-C 16P CB1.6|2|沉板1.6mm|
 |TRRS母座|PJ-381B|2|-|
 |二極體|1N4148 SOD-123|42|-|
@@ -69,5 +69,28 @@ Paicorea是一把專門為我而設計的分離式機械鍵盤，目的是為了
 |5|對應電路板顏色的簽字筆|邊框填色使用|可不需使用|
 |6|防靜電金屬鑷子|進階電路板焊接、測試、精密操作||
 |7|精密螺絲起子|-|對應螺絲規格使用|
+|8|平口老虎鉗|分離拼接電路板時使用|-|
 
 ## 參考資料
+
+### 鍵盤
+- [AZCARD](https://github.com/palette-system/azcard)：結構部分。
+- [Makefive](https://github.com/mikeholscher/zmk-config-mikefive)：結構部分。
+- [Bayleaf](https://kbd.news/Bayleaf-2610.html)：結構部分。
+- [Corne v4](https://github.com/foostan/crkbd)：TRRS連接座、PCB走線參照。
+- [X：おおやけハジメ](https://x.com/digitarhythm)——[未完成"V1"](https://x.com/digitarhythm/status/1908885665695363132)：
+走線參照。
+
+### 部落格、網頁、參考說明書
+- [Holykeeb](https://holykeebs.com/)、[Holykeeb.Docs](https://docs.holykeebs.com/guides/touchpad-module/)。
+- [74th Blog](https://74th.hateblo.jp/entry/testing-TPS43-201A-S)
+- [Reddit: mikefive, a Kailh PG1316 keyboard](https://www.reddit.com/r/ErgoMechKeyboards/comments/1cfg3vr/mikefive_a_kailh_pg1316_keyboard/)
+- [KBD.News](https://kbd.news/)
+
+### 規格書
+- PJ-381B、PJ-381-C、PJ-399。
+- TYPE-C 16P CB1.6。
+- MAC8 THXX-XX-M2。
+- SK6805-2427。
+- Kailh PG1316S & Keycap
+- Azoteq TPS43-201A-S。

@@ -70,16 +70,17 @@ Paicorea是一把專門為我而設計的分離式機械鍵盤，目的是為了
 |6|防靜電金屬鑷子|進階電路板焊接、測試、精密操作||
 |7|精密螺絲起子|-|對應螺絲規格使用|
 |8|平口老虎鉗|分離拼接電路板時使用|-|
+|9|銼刀|打磨電路板邊框時用|-|
 
 ## 參考資料
 
 ### 鍵盤
-- [AZCARD](https://github.com/palette-system/azcard)：結構部分。
+- [AZCARD](https://github.com/palette-system/azcard)：結構部分及銅柱元件參照。
 - [Makefive](https://github.com/mikeholscher/zmk-config-mikefive)：結構部分。
 - [Bayleaf](https://kbd.news/Bayleaf-2610.html)：結構部分。
 - [Corne v4](https://github.com/foostan/crkbd)：TRRS連接座、PCB走線參照。
 - [X：おおやけハジメ](https://x.com/digitarhythm)——[未完成"V1"](https://x.com/digitarhythm/status/1908885665695363132)：
-走線參照。
+PCB走線參照。
 
 ### 部落格、網頁、參考說明書
 - [Holykeeb](https://holykeebs.com/)、[Holykeeb.Docs](https://docs.holykeebs.com/guides/touchpad-module/)。
@@ -92,5 +93,5 @@ Paicorea是一把專門為我而設計的分離式機械鍵盤，目的是為了
 - TYPE-C 16P CB1.6。
 - MAC8 THXX-XX-M2。
 - SK6805-2427。
-- Kailh PG1316S & Keycap
+- Kailh PG1316S & Keycap。
 - Azoteq TPS43-201A-S。

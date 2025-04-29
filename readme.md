@@ -1,4 +1,4 @@
-# Paicorea43-1
+# Paicorea
 
 |![](pic/info1.png)|![](pic/info2.png)|
 |--|--|
@@ -16,7 +16,7 @@ Paicorea是一把專門為我而設計的分離式機械鍵盤，目的是為了
 
 使用`RP2040 Core-A`的原因——它跟用排線分離設計的`RP2040-Tiny`不同，我可以直接在PCB上拉USB2.0使用的USB-C口接線接在`RP2040 Core-A`上達到分離MCU跟USB-C的目的，而不用而外設計一個專門放置排線跟分離板的位置，而且又是厚度只有5.5mm的空間內。
 
-最終從MCU——RP2040 Core-A（Raspberry Pi）中取Pi（π，Pai同音）、Core-A（corea）、TPS43及按鍵數量42鍵作為命名使用（43-1），Paicorea43-1就這麼出來了。
+最終從MCU——RP2040 Core-A（Raspberry Pi）中取Pi（π，Pai同音）、Core-A（corea），Paicorea就這麼誕生了。
 
 ## 使用材料
 

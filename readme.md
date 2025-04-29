@@ -27,7 +27,8 @@ Paicorea是一把專門為我而設計的分離式機械鍵盤，目的是為了
 |MCU|RP2040 Core-A|2|[Aliexpress Link](https://es.aliexpress.com/item/1005006101790601.html?channel=twinner)|
 |Type-C母座|TYPE-C 16P CB1.6|2|沉板1.6mm|
 |TRRS母座|PJ-381B|2|-|
-|二極體|1N4148 SOD-123|42|-|
+|二極體|1N4148 `SOD-123`|42|-|
+|貼片電阻|5.1K、`0603`|4|焊接後可支援C2C|
 |鍵軸|Kailh PG1316S|42|-|
 |鍵帽|適用PG1316S、`1u`大小|42|推薦用買的，3D列印需`留意邊角`圓弧|
 |貼片銅柱|MAC8 TH0.8-2.0-M2（2.0）|16|-|
